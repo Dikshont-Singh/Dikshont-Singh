@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Dikshont-Singh/Dikshont-Singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and developer enthusiastic about coding, automation, and electronics.
 
-Here are some ideas to get you started:
+### 🛠️ What I'm working with:
+- **Languages:** Python, HTML, CSS
+- **Projects:** 2D game development (Pygame), Inventory Management Software
+- **Hardware & DIY:** Basic circuits, motor drivers, and physical computing
+- **Tools:** VS Code, Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus:
+- Creating interactive games and scripts
+- Exploring software automation and backend tools
+- Combining physics, math, and software in practical projects
+
+---
+*Always open to learning new tools, collaborating, and experimenting with code!*
